@@ -61,5 +61,4 @@ export const WORDS = [
   'radio',
   'roses',
   'billy',
-
 ]
